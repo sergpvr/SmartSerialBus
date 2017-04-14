@@ -1,4 +1,4 @@
-package com.epam.communication.wakeUp;
+package com.greenhouse.communication.wakeUp;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

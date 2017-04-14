@@ -1,4 +1,4 @@
-package com.epam.communication.wakeUp;
+package com.greenhouse.communication.wakeUp;
 
 /**
  * states for receiving of Wake packet

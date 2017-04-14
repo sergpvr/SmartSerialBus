@@ -1,4 +1,4 @@
-package com.epam.communication.wakeUp;
+package com.greenhouse.communication.wakeUp;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.epam.communication.wakeUp;
+package com.greenhouse.communication.wakeUp;
 
 /**
  * WakeConnection - generic interface for synchronous requests by Wake protocol

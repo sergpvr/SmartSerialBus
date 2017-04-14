@@ -1,4 +1,4 @@
-package com.epam.communication.wakeUp;
+package com.greenhouse.communication.wakeUp;
 
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.TimeUnit;
