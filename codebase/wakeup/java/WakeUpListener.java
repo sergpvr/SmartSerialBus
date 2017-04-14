@@ -1,4 +1,4 @@
-package com.greenhouse.communication.wakeUp;
+package org.smarthouse.communication.wakeUp;
 
 /**
  * Listener for Wake protocol

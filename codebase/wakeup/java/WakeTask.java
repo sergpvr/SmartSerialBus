@@ -1,4 +1,4 @@
-package com.greenhouse.communication.wakeUp;
+package org.smarthouse.communication.wakeUp;
 
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.TimeUnit;

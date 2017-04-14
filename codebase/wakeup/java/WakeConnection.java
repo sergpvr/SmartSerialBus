@@ -1,4 +1,4 @@
-package com.greenhouse.communication.wakeUp;
+package org.smarthouse.communication.wakeUp;
 
 /**
  * WakeConnection - generic interface for synchronous requests by Wake protocol
